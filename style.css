@@ -1,0 +1,107 @@
+.all{
+    font-size: 32px;
+    text-decoration: none !important;
+   font-weight: bold;
+   color:  white;
+   
+    
+}
+.all:hover{
+    color: whitesmoke;
+}
+.nav-link{
+    color: white !important;
+    font-weight: bold;
+}
+.nav-link a:hover{
+    color: black !important;
+    background-color: white !important;
+}
+    
+
+.height{
+    height: 600px;
+}
+
+.com{
+    padding: 40px;
+    background-color: rgb(255, 51, 0);
+}
+.col h3 {
+    color: white;
+    font-weight: bold;
+}
+.col p{
+    color: white;
+}
+.ser{
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+.feat img{
+    height: 300px;
+    width: 451px;
+}
+.feat3{
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+.news{
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+.blue{
+    background-color: rgb(255, 51, 0) ;
+}
+.white{
+    color: white;
+}
+.feat2 h3{
+    font-weight: bolder;
+}
+.service h3{
+    font-weight: bolder;
+}
+.pad{
+    padding-top: 30px;
+}
+.abo{
+    padding-top: 75px;
+    padding-bottom: 50px;
+}
+.size{
+    height: 400px;
+    width: 464px;
+}
+
+.abo h3{
+    font-weight: bold;
+}
+.bg{
+    background-color: rgb(19, 19, 19);
+}
+.foot{
+    padding-top: 70px;
+    padding-bottom: 40px;
+}
+
+.foot a{
+    text-decoration: none !important;
+
+}
+
+.foot a:hover{
+    color: gray;
+}
+.bg1{
+    background-color:  rgb(32, 32, 32) ;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.bgcol{
+    background-color: rgb(255, 51, 0);
+}
+.bgcol p{
+    padding-top: 15px;
+    color: white;
+}
